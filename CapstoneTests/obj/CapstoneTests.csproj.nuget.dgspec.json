@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\CapstoneTests\\CapstoneTests.csproj": {}
+  },
+  "projects": {
+    "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\CapstoneTests\\CapstoneTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\CapstoneTests\\CapstoneTests.csproj",
+        "projectName": "CapstoneTests",
+        "projectPath": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\CapstoneTests\\CapstoneTests.csproj",
+        "packagesPath": "C:\\Users\\nater\\.nuget\\packages\\",
+        "outputPath": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\CapstoneTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nater\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\Capstone.csproj": {
+                "projectPath": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\Capstone.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\Capstone.csproj",
+        "projectName": "Capstone",
+        "projectPath": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\Capstone.csproj",
+        "packagesPath": "C:\\Users\\nater\\.nuget\\packages\\",
+        "outputPath": "Z:\\Nick\\Education\\team2-c-sharp-week4-pair-exercises\\19_Mini-Capstone\\Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nater\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
